@@ -2,7 +2,7 @@
   "author": "Wookets (http://www.wookets.com)",
   "name": "pawnode",
   "description": "An auth-crud-query kickstarter for node apps",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "homepage": "http://github.com/wookets/pawnode",
   "repository": {
     "type": "git",
