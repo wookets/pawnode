@@ -1,4 +1,5 @@
-###globals module:false ###
+###globals require:false, module:false, exports:false, __dirname:false ###
 
-module.exports = ->
-	console.log 'happy'
+exports.appath = require "#{__dirname}/appath"
+exports.routes = require "#{__dirname}/routes"
+
