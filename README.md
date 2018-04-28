@@ -1,5 +1,7 @@
 ### 0.3.0
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wookets/pawnode.svg)](https://greenkeeper.io/)
+
 
 ### 0.2.0
 
